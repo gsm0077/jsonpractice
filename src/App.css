@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background: hsl(323 21% 16%);
+  font-family: "Balsamiq Sans", cursive;
+  color: hsl(317 100% 54%);
+
+}
